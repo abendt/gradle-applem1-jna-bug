@@ -13,6 +13,7 @@ repositories {
 }
 
 dependencies {
+    // changed this to use version 1.6.0
     // this pulls in net.java.dev.jna:jna:5.6.0
     implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.0")
 }
